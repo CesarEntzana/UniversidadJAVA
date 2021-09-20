@@ -1,2 +1,3 @@
-## 'Conversion datos primitivos'
-Tipos de conversiones de datos primitivos en JAVA 
+## Conversion de datos primitivos
+Conversiones admitidas en los  datos primitivos dentro de JAVA
+
